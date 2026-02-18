@@ -1,0 +1,4 @@
+song=c.lower().split(" ")[1]
+play skyfall
+
+['play', "skyfall"]
